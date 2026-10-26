@@ -1,0 +1,1 @@
+<div class="form-actions"><a class="button secondary" href="{{ $cancelUrl }}">Batal</a><button class="button primary" type="submit">{{ $submitLabel ?? 'Simpan' }}</button></div>

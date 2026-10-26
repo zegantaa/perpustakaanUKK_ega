@@ -1,0 +1,1 @@
+<form method="POST" action="{{ $action }}" class="inline-form" onsubmit="return confirm('Hapus data ini?')">@csrf @method('DELETE')<button class="link danger-text" type="submit">Hapus</button></form>

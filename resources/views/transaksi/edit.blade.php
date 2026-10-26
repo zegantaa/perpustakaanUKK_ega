@@ -1,0 +1,1 @@
+@extends('layouts.app') @section('content')<div class="page-heading"><div><span class="eyebrow">Sirkulasi koleksi</span><h1>Edit Transaksi</h1></div></div><section class="panel form-panel"><form method="POST" action="{{ route('transaksi.update',$transaksi) }}">@method('PUT') @include('transaksi.form')</form></section>@endsection

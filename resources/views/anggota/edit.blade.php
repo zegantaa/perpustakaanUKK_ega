@@ -1,0 +1,1 @@
+@extends('layouts.app') @section('content')<div class="page-heading"><div><span class="eyebrow">Data siswa</span><h1>Edit Anggota</h1></div></div><section class="panel form-panel"><form method="POST" action="{{ route('anggota.update',$anggota) }}">@method('PUT') @include('anggota.form')</form></section>@endsection

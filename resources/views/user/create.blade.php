@@ -1,0 +1,1 @@
+@extends('layouts.app') @section('content')<div class="page-heading"><div><span class="eyebrow">Pengguna sistem</span><h1>Tambah User</h1></div></div><section class="panel form-panel"><form method="POST" action="{{ route('user.store') }}">@include('user.form')</form></section>@endsection

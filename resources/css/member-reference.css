@@ -1,0 +1,19 @@
+/* Penyesuaian visual halaman beranda sesuai referensi Perpustakaan Digital. */
+.member-nav-inner,.member-main,.member-footer{max-width:1168px}
+.member-nav-inner{height:72px}
+.member-brand{gap:11px}
+.member-brand-mark{width:38px;height:38px;background:#1e3a5f;border-radius:4px}
+.member-brand strong{font-size:12px;letter-spacing:.08em;white-space:nowrap}
+.member-brand small{font-size:11px;margin-top:5px}
+.member-hero{min-height:350px;padding:58px 64px;background:#1e3a5f}
+.member-hero h1{font-size:44px;line-height:1.08;margin:13px 0 16px}
+.member-hero p{font-size:15px;max-width:500px}
+.hero-search{max-width:590px}
+.member-section{margin-top:34px}
+.member-section-heading h2{font-size:24px}
+.member-stats{gap:14px}
+.member-stats>div{min-height:104px;padding:17px 18px;border-top-width:3px}
+.member-stats strong{font-size:24px}
+.member-book-grid.compact{gap:18px}
+.member-book-card{border-radius:5px}
+@media(max-width:600px){.member-nav-inner{height:64px}.member-brand strong{font-size:10px}.member-hero{padding:34px 24px}.member-hero h1{font-size:34px}.member-hero p{font-size:14px}.member-stats{gap:10px}.member-stats>div{min-height:96px;padding:14px}.member-stats span{font-size:11px}.member-stats strong{font-size:20px}}

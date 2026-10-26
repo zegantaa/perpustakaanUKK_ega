@@ -1,0 +1,1 @@
+<span class="badge {{ $value }}">{{ ucfirst($value) }}</span>
