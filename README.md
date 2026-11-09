@@ -648,7 +648,7 @@ Penggunaan dan pengembangan lebih lanjut dapat disesuaikan dengan kebutuhan masi
 
 <p align="center">
   🌐 Website Demo:<br>
-  https://zegantaa.github.io/perpustakaanUKK_ega/
+  https://eganurperpus.site.je/
 </p>
 
 <p align="center">
